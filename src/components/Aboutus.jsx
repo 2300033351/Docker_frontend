@@ -1,5 +1,5 @@
 import React from 'react';
-import '../components/style.css';
+import './style.css';
 import { Link, Outlet } from "react-router-dom";
 
 const AboutUs = () => {
